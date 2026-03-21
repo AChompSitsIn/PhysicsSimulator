@@ -2,7 +2,7 @@
 
 A comprehensive sailing simulation with realistic physics and modular controller architecture for easy development and testing of navigation algorithms.
 
-**Kehillah Sailbot boat simulation program for the 2024-2025 Sailbot competition**
+**Kehillah Sailbot boat simulation program for the 2025-2026 Sailbot competition**
 
 ## Quick Start
 
